@@ -1,14 +1,14 @@
 {
-  "main.css": "/tauprime/static/css/main.d604a87b.chunk.css",
-  "main.js": "/tauprime/static/js/main.2d9b03ee.chunk.js",
-  "main.js.map": "/tauprime/static/js/main.2d9b03ee.chunk.js.map",
-  "static/js/1.95f4e893.chunk.js": "/tauprime/static/js/1.95f4e893.chunk.js",
-  "static/js/1.95f4e893.chunk.js.map": "/tauprime/static/js/1.95f4e893.chunk.js.map",
-  "runtime~main.js": "/tauprime/static/js/runtime~main.5584c468.js",
-  "runtime~main.js.map": "/tauprime/static/js/runtime~main.5584c468.js.map",
-  "static/css/main.d604a87b.chunk.css.map": "/tauprime/static/css/main.d604a87b.chunk.css.map",
-  "static/media/index.css": "/tauprime/static/media/SpaceRangerTitle.a0e093f7.woff",
-  "index.html": "/tauprime/index.html",
-  "precache-manifest.c3e4575f987ff0762309b29321f55bb2.js": "/tauprime/precache-manifest.c3e4575f987ff0762309b29321f55bb2.js",
-  "service-worker.js": "/tauprime/service-worker.js"
+  "main.css": "/tp/static/css/main.48ba1dac.chunk.css",
+  "main.js": "/tp/static/js/main.6286ccd8.chunk.js",
+  "main.js.map": "/tp/static/js/main.6286ccd8.chunk.js.map",
+  "static/js/1.95f4e893.chunk.js": "/tp/static/js/1.95f4e893.chunk.js",
+  "static/js/1.95f4e893.chunk.js.map": "/tp/static/js/1.95f4e893.chunk.js.map",
+  "runtime~main.js": "/tp/static/js/runtime~main.b830451d.js",
+  "runtime~main.js.map": "/tp/static/js/runtime~main.b830451d.js.map",
+  "static/css/main.48ba1dac.chunk.css.map": "/tp/static/css/main.48ba1dac.chunk.css.map",
+  "static/media/index.css": "/tp/static/media/SpaceRangerTitle.a0e093f7.woff",
+  "index.html": "/tp/index.html",
+  "precache-manifest.61bd377433fd73ea65c58143edeb7568.js": "/tp/precache-manifest.61bd377433fd73ea65c58143edeb7568.js",
+  "service-worker.js": "/tp/service-worker.js"
 }
