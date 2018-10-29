@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "b2f8ce0e76ed09588149a4522748e6ed",
-    "url": "/tp/static/media/planets22.b2f8ce0e.jpg"
+    "revision": "47060946baddb4f9dc37565b4c8bdee5",
+    "url": "/tp/static/media/planets22.47060946.jpg"
   },
   {
-    "revision": "0aa4dcea4053e7770ea2",
+    "revision": "fd8984e6881508c6c228",
     "url": "/tp/static/css/main.21502149.chunk.css"
   },
   {
@@ -72,100 +72,100 @@ self.__precacheManifest = [
     "url": "/tp/static/media/token_suit.7046d431.png"
   },
   {
-    "revision": "951c4e83dc8876c6701d2e71b739adcb",
-    "url": "/tp/static/media/planets.951c4e83.jpg"
+    "revision": "e5836f4f4cff4907fc9b3c0c5336af9a",
+    "url": "/tp/static/media/planets.e5836f4f.jpg"
   },
   {
-    "revision": "9fc9d5073fd6eeb168a4b32642962df1",
-    "url": "/tp/static/media/planets2.9fc9d507.jpg"
+    "revision": "43df3884d245ac07ff488b9604451a2d",
+    "url": "/tp/static/media/planets2.43df3884.jpg"
   },
   {
-    "revision": "aa91287feb692e5ace18763f90653d75",
-    "url": "/tp/static/media/planets3.aa91287f.jpg"
+    "revision": "7b2ca8aeaad812bb50038f18266f9ddc",
+    "url": "/tp/static/media/planets3.7b2ca8ae.jpg"
   },
   {
-    "revision": "f0ca061a662f8c3bcf477289b7445170",
-    "url": "/tp/static/media/planets4.f0ca061a.jpg"
+    "revision": "95a061f3ce8a0d1ed51a27a35e1f49e4",
+    "url": "/tp/static/media/planets4.95a061f3.jpg"
   },
   {
-    "revision": "7565681df862489a45b0dbf1cf5596e7",
-    "url": "/tp/static/media/planets5.7565681d.jpg"
+    "revision": "4bbcb2988e5b9823c6cd7ca52750bcda",
+    "url": "/tp/static/media/planets5.4bbcb298.jpg"
   },
   {
-    "revision": "76b596b66fbaa74428e8735d7db5bf53",
-    "url": "/tp/static/media/planets6.76b596b6.jpg"
+    "revision": "0c533bbde1867215a7385c58f325f4bd",
+    "url": "/tp/static/media/planets6.0c533bbd.jpg"
   },
   {
-    "revision": "5d30d738fffecf3812452fab01c8fc88",
-    "url": "/tp/static/media/planets7.5d30d738.jpg"
+    "revision": "09d0feb4565c646ad21af718686479b9",
+    "url": "/tp/static/media/planets7.09d0feb4.jpg"
   },
   {
-    "revision": "7d2929656e823488fab0506a8c8c5d13",
-    "url": "/tp/static/media/planets8.7d292965.jpg"
+    "revision": "692f35e02c66545c996d8784c7700149",
+    "url": "/tp/static/media/planets8.692f35e0.jpg"
   },
   {
-    "revision": "2737f603d7d9caa35dd40d674852ecd8",
-    "url": "/tp/static/media/planets9.2737f603.jpg"
+    "revision": "fbaab1f5cab3b5294ecc5405c936ae70",
+    "url": "/tp/static/media/planets9.fbaab1f5.jpg"
   },
   {
-    "revision": "5a370bd5f4d9866e6c583620ebe1fb08",
-    "url": "/tp/static/media/planets10.5a370bd5.jpg"
+    "revision": "cc334d49f7d0b569fa2db0717461d2fc",
+    "url": "/tp/static/media/planets10.cc334d49.jpg"
   },
   {
-    "revision": "e63f5dc454c175084a7d8436e432346d",
-    "url": "/tp/static/media/planets11.e63f5dc4.jpg"
+    "revision": "58d0c6326c25ff0f8c006b0113dff26b",
+    "url": "/tp/static/media/planets11.58d0c632.jpg"
   },
   {
-    "revision": "ffe86b677a6305d6f12085c1770c3266",
-    "url": "/tp/static/media/planets12.ffe86b67.jpg"
+    "revision": "68a4116fe534feb8cc3d579f8859d7ff",
+    "url": "/tp/static/media/planets12.68a4116f.jpg"
   },
   {
-    "revision": "3e9395cbd787b3199f9feb0fe23a41ed",
-    "url": "/tp/static/media/planets13.3e9395cb.jpg"
+    "revision": "71c8207a20471e6354342aa9995b3449",
+    "url": "/tp/static/media/planets13.71c8207a.jpg"
   },
   {
-    "revision": "f18caa97a495e6412d500c2ed978b0ee",
-    "url": "/tp/static/media/planets14.f18caa97.jpg"
+    "revision": "c7442378401ea7f4dc3c0b9e81294fe1",
+    "url": "/tp/static/media/planets14.c7442378.jpg"
   },
   {
-    "revision": "375def8be0621445b8eef1325bcefca6",
-    "url": "/tp/static/media/planets15.375def8b.jpg"
+    "revision": "e22e1b1839e8ae7d43765897a27bd583",
+    "url": "/tp/static/media/planets15.e22e1b18.jpg"
   },
   {
-    "revision": "ac6736445b9ec0952e885a549427a2d0",
-    "url": "/tp/static/media/planets16.ac673644.jpg"
+    "revision": "fc445d2bb1db617cd761f29e9fe7cbe6",
+    "url": "/tp/static/media/planets16.fc445d2b.jpg"
   },
   {
-    "revision": "fad6b8de2acb7edc6bcf3a52d5da90cf",
-    "url": "/tp/static/media/planets17.fad6b8de.jpg"
+    "revision": "47cd5f73c8544934487fc5223d1958e8",
+    "url": "/tp/static/media/planets17.47cd5f73.jpg"
   },
   {
-    "revision": "7af8e72dba542b7ae3acb8e1f59551a6",
-    "url": "/tp/static/media/planets18.7af8e72d.jpg"
+    "revision": "d255a1862f596ea1aef24813ea2bf6cf",
+    "url": "/tp/static/media/planets18.d255a186.jpg"
   },
   {
-    "revision": "8a8fbe021074fe6dce82d6b5132dc2b9",
-    "url": "/tp/static/media/planets19.8a8fbe02.jpg"
+    "revision": "3669cee6dd94539b5aef6fbdceee9b02",
+    "url": "/tp/static/media/planets19.3669cee6.jpg"
   },
   {
-    "revision": "cedfe5eccbae6c2bab0dc4e4c5c7e382",
-    "url": "/tp/static/media/planets20.cedfe5ec.jpg"
+    "revision": "7b6e04dfc97496d126f189ae0ac13980",
+    "url": "/tp/static/media/planets20.7b6e04df.jpg"
   },
   {
-    "revision": "8d04b1f5a6f3464b31fa42deb8277ac4",
-    "url": "/tp/static/media/planets21.8d04b1f5.jpg"
+    "revision": "6932d4a5bd96498a49037388e30f12f1",
+    "url": "/tp/static/media/planets21.6932d4a5.jpg"
   },
   {
-    "revision": "0aa4dcea4053e7770ea2",
-    "url": "/tp/static/js/main.0aa4dcea.chunk.js"
+    "revision": "fd8984e6881508c6c228",
+    "url": "/tp/static/js/main.fd8984e6.chunk.js"
   },
   {
-    "revision": "29ee1f4dff045adca6b1ebb99035b446",
-    "url": "/tp/static/media/planets23.29ee1f4d.jpg"
+    "revision": "21c22b6623d10f8f58dec1f17c1db24d",
+    "url": "/tp/static/media/planets23.21c22b66.jpg"
   },
   {
-    "revision": "3fc2883b9be5b0583f8b7d3bf0b4723b",
-    "url": "/tp/static/media/planets24.3fc2883b.jpg"
+    "revision": "745143842bdd000a4b030c8c6f846692",
+    "url": "/tp/static/media/planets24.74514384.jpg"
   },
   {
     "revision": "1aea764fa4253d10cdddb804baa28042",
@@ -292,8 +292,8 @@ self.__precacheManifest = [
     "url": "/tp/static/media/datalogs29.41ed439c.jpg"
   },
   {
-    "revision": "85ff0e54ed64529e9bc4c8b41db461f9",
-    "url": "/tp/static/media/planets28.85ff0e54.jpg"
+    "revision": "51a82dbc0590f21ac4a4ce0b0a031fae",
+    "url": "/tp/static/media/planets28.51a82dbc.jpg"
   },
   {
     "revision": "8b44bfa557e7ed806e9b17ede1e58cde",
@@ -308,7 +308,7 @@ self.__precacheManifest = [
     "url": "/tp/static/media/scanner-interlace-01.b46b239c.png"
   },
   {
-    "revision": "9608d95a1d9d7909b6169e36bdcaf88d",
+    "revision": "ee291b535999c94f4c69d0f9a60bcfe5",
     "url": "/tp/index.html"
   }
 ];
