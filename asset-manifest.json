@@ -1,9 +1,9 @@
 {
-  "main.css": "/tp/static/css/main.10d438a7.chunk.css",
-  "main.js": "/tp/static/js/main.736e7f51.chunk.js",
-  "main.js.map": "/tp/static/js/main.736e7f51.chunk.js.map",
-  "static/js/1.adb5f959.chunk.js": "/tp/static/js/1.adb5f959.chunk.js",
-  "static/js/1.adb5f959.chunk.js.map": "/tp/static/js/1.adb5f959.chunk.js.map",
+  "main.css": "/tp/static/css/main.21849757.chunk.css",
+  "main.js": "/tp/static/js/main.3d9a866a.chunk.js",
+  "main.js.map": "/tp/static/js/main.3d9a866a.chunk.js.map",
+  "static/js/1.b993f3f9.chunk.js": "/tp/static/js/1.b993f3f9.chunk.js",
+  "static/js/1.b993f3f9.chunk.js.map": "/tp/static/js/1.b993f3f9.chunk.js.map",
   "runtime~main.js": "/tp/static/js/runtime~main.b830451d.js",
   "runtime~main.js.map": "/tp/static/js/runtime~main.b830451d.js.map",
   "static/media/artifact.png": "/tp/static/media/artifact.416cdcb6.png",
@@ -46,10 +46,11 @@
   "static/media/asteroids.png": "/tp/static/media/asteroids.e83fd347.png",
   "static/media/black_hole.png": "/tp/static/media/black_hole.797509b3.png",
   "static/media/alien_ship.png": "/tp/static/media/alien_ship.622128f3.png",
+  "static/media/wormhole.png": "/tp/static/media/wormhole.8d973261.png",
   "static/media/index.css": "/tp/static/media/SpaceRangerTitle.a0e093f7.woff",
   "static/media/App.css": "/tp/static/media/scanner-interlace-01.b46b239c.png",
-  "static/css/main.10d438a7.chunk.css.map": "/tp/static/css/main.10d438a7.chunk.css.map",
+  "static/css/main.21849757.chunk.css.map": "/tp/static/css/main.21849757.chunk.css.map",
   "index.html": "/tp/index.html",
-  "precache-manifest.2a549237db17912aeb17af510a29dbfb.js": "/tp/precache-manifest.2a549237db17912aeb17af510a29dbfb.js",
+  "precache-manifest.9f7b1938e7979a3493256eb5deee29a5.js": "/tp/precache-manifest.9f7b1938e7979a3493256eb5deee29a5.js",
   "service-worker.js": "/tp/service-worker.js"
 }
