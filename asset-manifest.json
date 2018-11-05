@@ -1,7 +1,7 @@
 {
   "main.css": "/tp/static/css/main.29a4c60e.chunk.css",
-  "main.js": "/tp/static/js/main.f4e79b53.chunk.js",
-  "main.js.map": "/tp/static/js/main.f4e79b53.chunk.js.map",
+  "main.js": "/tp/static/js/main.b2c2e9c4.chunk.js",
+  "main.js.map": "/tp/static/js/main.b2c2e9c4.chunk.js.map",
   "static/js/1.cde4c80d.chunk.js": "/tp/static/js/1.cde4c80d.chunk.js",
   "static/js/1.cde4c80d.chunk.js.map": "/tp/static/js/1.cde4c80d.chunk.js.map",
   "runtime~main.js": "/tp/static/js/runtime~main.b830451d.js",
@@ -51,6 +51,6 @@
   "static/media/App.css": "/tp/static/media/scanner-interlace-01.b46b239c.png",
   "static/css/main.29a4c60e.chunk.css.map": "/tp/static/css/main.29a4c60e.chunk.css.map",
   "index.html": "/tp/index.html",
-  "precache-manifest.5b1a6b3333d3a5bac3ee010fafafefb4.js": "/tp/precache-manifest.5b1a6b3333d3a5bac3ee010fafafefb4.js",
+  "precache-manifest.4060ff2cdb232e10ca27f2581dc0c694.js": "/tp/precache-manifest.4060ff2cdb232e10ca27f2581dc0c694.js",
   "service-worker.js": "/tp/service-worker.js"
 }
