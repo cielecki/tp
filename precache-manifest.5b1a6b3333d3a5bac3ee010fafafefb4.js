@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/tp/static/media/civilisation_big.14b2ba57.png"
   },
   {
-    "revision": "2b80997b5e74970b90ae",
-    "url": "/tp/static/css/main.75acb6eb.chunk.css"
+    "revision": "f4e79b532b74e26fe967",
+    "url": "/tp/static/css/main.29a4c60e.chunk.css"
   },
   {
-    "revision": "bfd71af927e48787822f",
-    "url": "/tp/static/js/1.bfd71af9.chunk.js"
+    "revision": "cde4c80d5faac5d0d234",
+    "url": "/tp/static/js/1.cde4c80d.chunk.js"
   },
   {
     "revision": "b830451d91a1961fe5b5",
@@ -96,12 +96,16 @@ self.__precacheManifest = [
     "url": "/tp/static/media/civilisation_medium.d654e8a4.png"
   },
   {
-    "revision": "2b80997b5e74970b90ae",
-    "url": "/tp/static/js/main.2b80997b.chunk.js"
+    "revision": "f4e79b532b74e26fe967",
+    "url": "/tp/static/js/main.f4e79b53.chunk.js"
   },
   {
     "revision": "b879ff23b7df2decc1190f2984c8da74",
     "url": "/tp/static/media/start.b879ff23.png"
+  },
+  {
+    "revision": "622128f39e0507dbe97038065cc148c2",
+    "url": "/tp/static/media/alien_ship.622128f3.png"
   },
   {
     "revision": "f13e7eb987cc94b7d56f383b9d72b99e",
@@ -172,10 +176,6 @@ self.__precacheManifest = [
     "url": "/tp/static/media/black_hole.797509b3.png"
   },
   {
-    "revision": "622128f39e0507dbe97038065cc148c2",
-    "url": "/tp/static/media/alien_ship.622128f3.png"
-  },
-  {
     "revision": "8d973261f97afab0a0c38b2fafc482bd",
     "url": "/tp/static/media/wormhole.8d973261.png"
   },
@@ -192,7 +192,7 @@ self.__precacheManifest = [
     "url": "/tp/static/media/scanner-interlace-01.b46b239c.png"
   },
   {
-    "revision": "3f31c1ed6b7f194a954b79043bb19e86",
+    "revision": "d6dddb6b7c2a59bc77750690df63fb67",
     "url": "/tp/index.html"
   }
 ];
